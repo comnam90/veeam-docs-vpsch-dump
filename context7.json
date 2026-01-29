@@ -1,0 +1,12 @@
+{
+  "$schema": "https://context7.com/schema/context7.json",
+  "projectTitle": "Veeam Plug-in for Scale Computing HyperCore Docs",
+  "description": "Unofficial documentation dump for Veeam Plug-in for Scale Computing HyperCore (VPSCH). Documentation for Veeam's backup and recovery solution for Scale Computing HyperCore virtualization environments.",
+  "folders": ["docs"],
+  "excludeFolders": [],
+  "excludeFiles": [],
+  "rules": [
+    "This is unofficial documentation - always verify against official Veeam Help Center",
+    "Product covers Scale Computing HyperCore virtualization platform"
+  ]
+}
