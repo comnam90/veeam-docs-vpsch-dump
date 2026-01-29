@@ -1,0 +1,18 @@
+---
+title: "Step 2. Specify Job Name and Description"
+product: "vpsch"
+doc_type: "userguide"
+source_url: "https://helpcenter.veeam.com/docs/vpsch/userguide/backup_job_create_general_settings.html"
+last_updated: "5/22/2024"
+product_version: ""
+---
+
+# Step 2. Specify Job Name and Description
+
+
+At the Name step of the wizard, use the Name and Description fields to specify a name for the new backup job and to provide a description for future reference. The job name must be unique in Veeam Plug-in for Scale Computing HyperCore.
+
+The maximum length of the name is 40 characters; the following characters are not supported: ~ " # % & \* : < > ! ? / \ { | } . ' ` $. The maximum length of the description is 1024 characters.
+
+[![Step 2. Configure General Settings](images/backup_job_create_general_settings.webp)](images/backup_job_create_general_settings.webp)
+
