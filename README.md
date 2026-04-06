@@ -1,5 +1,17 @@
 # Veeam Plug-in for Scale Computing HyperCore Documentation Dump
 
+> [!WARNING]
+> **DEPRECATED — Documentation Merged into VBR**
+>
+> The standalone documentation for Veeam Plug-in for Scale Computing HyperCore has been
+> merged into the main **Veeam Backup & Replication** userguide. This repository is no
+> longer updated.
+>
+> - 📖 **Official VBR userguide**: [helpcenter.veeam.com/docs/backup/userguide](https://helpcenter.veeam.com/docs/backup/userguide/overview.html)
+> - 📦 **VBR documentation dump**: [comnam90/veeam-docs-vbr-dump](https://github.com/comnam90/veeam-docs-vbr-dump)
+
+---
+
 > **UNOFFICIAL DOCUMENTATION DUMP**
 >
 > This repository contains an automated conversion of Veeam Help Center
